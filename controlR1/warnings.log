@@ -1,0 +1,7 @@
+
+=== Error correction and assembling warnings:
+ * 0:01:43.994   300M / 2G    WARN    General                 (kmer_coverage_model.cpp   : 366)   Failed to determine erroneous kmer threshold. Threshold set to: 51
+ * 0:00:56.103   312M / 2G    WARN    General                 (kmer_coverage_model.cpp   : 366)   Failed to determine erroneous kmer threshold. Threshold set to: 39
+ * 0:00:48.144   276M / 2G    WARN    General                 (kmer_coverage_model.cpp   : 366)   Failed to determine erroneous kmer threshold. Threshold set to: 45
+ * 0:02:07.545   216M / 2G    WARN    General                 (pair_info_count.cpp       : 360)   Estimated mean insert size 71 is very small compared to read length 126
+======= Warnings saved to /home/hope/Downloads/SPAdes-3.13.1/controlR1/warnings.log

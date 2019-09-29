@@ -1,0 +1,36 @@
+Command line: spades.py	-1	/home/hope/Downloads/SPAdes-3.13.1/fastq/control left_R1.fastq	-2	/home/hope/Downloads/SPAdes-3.13.1/fastq/control left_R2.fastq	-o	/home/hope/Downloads/SPAdes-3.13.1/controlR1	
+
+System information:
+  SPAdes version: 3.13.1
+  Python version: 3.7.3
+  OS: Linux-4.19.49-1-MANJARO-x86_64-with-arch-Manjaro-Linux
+
+Output dir: /home/hope/Downloads/SPAdes-3.13.1/controlR1
+Mode: read error correction and assembling
+Debug mode is turned OFF
+
+Dataset parameters:
+  Multi-cell mode (you should set '--sc' flag if input data was obtained with MDA (single-cell) technology or --meta flag if processing metagenomic dataset)
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/home/hope/Downloads/SPAdes-3.13.1/fastq/control left_R1.fastq']
+      right reads: ['/home/hope/Downloads/SPAdes-3.13.1/fastq/control left_R2.fastq']
+      interlaced reads: not specified
+      single reads: not specified
+      merged reads: not specified
+Read error correction parameters:
+  Iterations: 1
+  PHRED offset will be auto-detected
+  Corrected reads will be compressed
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+Other parameters:
+  Dir for temp files: /home/hope/Downloads/SPAdes-3.13.1/controlR1/tmp
+  Threads: 16
+  Memory limit (in Gb): 3
+

@@ -1,0 +1,31 @@
+---
+max read length: 126
+nomerge max read length: 126
+average read length: 77.0204
+average coverage: 548.712
+libraries:       
+    - type:            paired-end
+      orientation:     fr
+      left reads:      
+        - /home/hope/Downloads/SPAdes-3.13.1/controlR1/corrected/control left_R1.00.0_0.cor.fastq.gz
+      right reads:     
+        - /home/hope/Downloads/SPAdes-3.13.1/controlR1/corrected/control left_R2.00.0_0.cor.fastq.gz
+      single reads:    
+        - /home/hope/Downloads/SPAdes-3.13.1/controlR1/corrected/control left_R_unpaired.00.0_0.cor.fastq.gz
+      data:            
+        unmerged read length: 126
+        merged read length: 0
+        insert size mean: 71
+        insert size deviation: 0
+        insert size left quantile: 71
+        insert size right quantile: 71
+        insert size median: 71
+        insert size mad: 0
+        insert size distribution: { 71: 389040 }
+        pi threshold:    0
+        binary converted: true
+        single reads mapped: false
+        library index:   0
+        number of reads: 2376807
+        total nucleotides: 183062632
+...

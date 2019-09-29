@@ -1,0 +1,6 @@
+- "left reads":
+  - "/home/hope/Downloads/SPAdes-3.13.1/fastq/control left_R1.fastq"
+  "orientation": "fr"
+  "right reads":
+  - "/home/hope/Downloads/SPAdes-3.13.1/fastq/control left_R2.fastq"
+  "type": "paired-end"
